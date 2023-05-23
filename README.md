@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">I'm a Front-End Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh07r&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh07r" /> </p>
-
 <h3 align="left"> 🙋‍♂️ About Me: </h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
@@ -34,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh07r&show_icons=true&locale=en" alt="rishabh07r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh07r&" alt="rishabh07r" /></p>
+
+<h3 align="left">❤ Views and Followers </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh07r&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh07r" /> </p>
