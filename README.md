@@ -32,8 +32,8 @@
 <a href="https://linkedin.com/in/rishabh07r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh07r" height="30" width="40" /></a>
 <a href="https://hashnode.com/@rishabh07r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rishabh07r" height="30" width="40" /></a>
 <a href="https://medium.com/@rishabh07r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabh07r" height="30" width="40" /></a>
-</p>
 <a href="https://dev.to/rishabh07r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rishabh07r" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">❤ Views and Followers </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh07r&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh07r" /> </p>
