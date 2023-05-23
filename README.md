@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at My Github [My Github](My Github)
+- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
 
 - 📝 I write blogs on [https://rishabh07r.hashnode.dev/](https://rishabh07r.hashnode.dev/)
 
